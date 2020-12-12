@@ -18,6 +18,10 @@ localhost:3000
 
 in your browser.
 
+## Details
+
+Script1 runs a simple python script
+
 ## Credits
 
 Developed from [this article](https://medium.com/swlh/run-python-script-from-node-js-and-send-data-to-browser-15677fcf199f)
